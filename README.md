@@ -1,9 +1,9 @@
 # AWS SAA-C03 Study Guide
 This study guide will help you pass the newer AWS Certified Solutions Architect - Associate exam. Ideally, you should reference this guide while working through the following material:
 
-  1. Stephane Maarek's <a href="https://ibm-learning.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/">Ultimate AWS Certified Solutions Architect Associate 2023 course</a> (permanent discount available through this link) or Neal Davis' <a href="https://ibm-learning.udemy.com/course/aws-certified-solutions-architect-associate-hands-on/">AWS Certified Solutions Architect Associate SAA-C03 course</a>
+  1. Stephane Maarek's <a href="[https://ibm-learning.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)">Ultimate AWS Certified Solutions Architect Associate 2023 course</a> (permanent discount available through this link) or Neal Davis' <a href="https://www.udemy.com/course/aws-certified-solutions-architect-associate-hands-on/">AWS Certified Solutions Architect Associate SAA-C03 course</a>
   2. The FAQs for the most critical services, included in the recommended reading list below
-  3. [Andre Iacono's](https://ibm-learning.udemy.com/user/andreiacono/) Practice exams - <a href="https://ibm-learning.udemy.com/course/aws-solutions-architect-saa-c03-exam-practice-questions-2023/learn/quiz/5846966">AWS Certified Solutions Architect Associate Practice Exams </a>
+  3. [Andre Iacono's](https://udemy.com/user/andreiacono/) Practice exams - <a href="https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/">AWS Certified Solutions Architect Associate Practice Exams </a>
   4. Andrew Brown's <a href="https://www.youtube.com/watch?v=Ia-UEYYR44s">AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course
 </a> 
 
